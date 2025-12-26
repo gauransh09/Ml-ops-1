@@ -1,4 +1,4 @@
-#this this train python
+#this this train pythons
 """
 Simple training script:
 - loads iris dataset from sklearn
